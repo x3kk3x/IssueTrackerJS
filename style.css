@@ -1,0 +1,59 @@
+ 
+ .title
+ { font:40px oblique, serif;}
+
+body
+
+{
+	max-width: 745;
+	padding: 800;
+	display: block;
+	background: #a5b1c2;
+}
+.box
+
+{
+	position: absolute;
+	top: 20px;
+	right: 120px;
+	padding: 5px;
+	background: #303952;
+}
+
+.box a
+{
+	width: 15px;
+	height: 15px;
+	float: left;
+	text-indent: -9999px;
+	margin: 5px;
+	cursor: pointer; 
+} 
+
+#red
+{
+	background: #e74c3c;
+}
+
+#purple
+{
+	background: #786fa6;
+}
+
+#green
+{
+	background: #27ae60;
+}
+
+#gray
+{
+	background: #d1d8e0;
+}
+#yellow
+{
+	background: #f1c40f;
+}
+#orange
+{
+	background: #e67e22;
+}
